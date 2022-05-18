@@ -131,3 +131,5 @@ dmypy.json
 .pyre/
 
 test.ipynb
+#idea file
+.idea/
